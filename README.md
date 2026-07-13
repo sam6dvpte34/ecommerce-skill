@@ -1,4 +1,4 @@
-# BrowserAct Ecommerce Skill
+# Ecommerce Skill
 
 150 Skills for ecommerce research, product data collection, price monitoring, and competitive intelligence.
 
