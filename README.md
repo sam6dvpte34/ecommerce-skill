@@ -51,7 +51,7 @@ Use temu-search-results-scraper to collect product listings and prices matching 
 
 ## Works with
 
-Claude Code, OpenAI Codex, Cursor, Windsurf, OpenClaw, Hermes, and other local agents that support reusable Skill instructions and can call BrowserAct.
+Claude Code, OpenAI Codex, Cursor, Windsurf, OpenClaw, Hermes, and other local agents that support reusable Skill instructions.
 
 ## Notes
 
@@ -61,8 +61,3 @@ Claude Code, OpenAI Codex, Cursor, Windsurf, OpenClaw, Hermes, and other local a
 ## About BrowserAct
 
 These Skills use [BrowserAct](https://www.browseract.com/?co-from=ecommerce) as the browser runtime — so agents can log in, navigate, scroll, and capture network responses instead of getting blocked or rate-limited by plain HTTP requests.
-
-If BrowserAct isn't installed yet:
-[Install BrowserAct](https://www.browseract.com/?co-from=ecommerce&redirect=https://github.com/browser-act/skills/tree/main)
-
-[Visit BrowserAct](https://www.browseract.com/?co-from=ecommerce)
