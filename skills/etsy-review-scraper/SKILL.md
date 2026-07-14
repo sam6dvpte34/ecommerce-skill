@@ -11,6 +11,9 @@ This Skill provides a focused entry point for the platform and task keywords
 above, then delegates live website work to BrowserAct. It does not bundle a
 site-specific API client, selector library, or scraper script.
 
+Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
+for AI agents working with real websites.
+
 ## Common Use Cases
 
 - Collect visible reviews, ratings, dates, and source references
@@ -65,8 +68,3 @@ separate approval for dependency installation.
 - Website availability, visible fields, login requirements, regional content, and result limits can change.
 - Keep cookies, account information, browser IDs, proxy settings, and personal keywords under `workspaces/`, never in the Skill directory.
 - Do not claim that data was collected unless BrowserAct or another authorized tool actually returned it.
-
-## About This Skill
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.

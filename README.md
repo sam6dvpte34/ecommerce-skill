@@ -4,6 +4,8 @@
 
 Ecommerce platforms don't make data collection easy: product pages are JavaScript-rendered, prices hide behind login walls, and seller data spreads across dozens of marketplaces. These Skills give your agent a ready-made workflow for each platform and task — point it at a product URL, ASIN, or keyword and get structured results back.
 
+These Skills use [BrowserAct](https://www.browseract.com/?co-from=ecommerce) as the browser runtime — so agents can log in, navigate, scroll, and capture network responses instead of getting blocked or rate-limited by plain HTTP requests.
+
 ## Popular workflows
 
 | Workflow | Example outcome |
@@ -57,7 +59,3 @@ Claude Code, OpenAI Codex, Cursor, Windsurf, OpenClaw, Hermes, and other local a
 
 - Intended for public data or data you are authorized to access. Website availability, visible fields, login requirements, and result limits can change over time.
 - Keep account details, cookies, browser IDs, proxies, keyword lists, and exported records outside shared Skill folders and public repositories.
-
-## About BrowserAct
-
-These Skills use [BrowserAct](https://www.browseract.com/?co-from=ecommerce) as the browser runtime — so agents can log in, navigate, scroll, and capture network responses instead of getting blocked or rate-limited by plain HTTP requests.
