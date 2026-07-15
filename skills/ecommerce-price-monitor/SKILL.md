@@ -1,18 +1,17 @@
 ---
 name: ecommerce-price-monitor
 description: "Monitor prices across product pages or listings — current price, availability, discount labels. Use when the user wants to track price changes on a product or across competitors."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Price Monitor with BrowserAct
+# Ecommerce Price Monitor
 
 Use this Skill for Price monitoring across product pages or listings.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

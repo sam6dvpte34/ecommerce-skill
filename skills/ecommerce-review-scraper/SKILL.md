@@ -1,18 +1,17 @@
 ---
 name: ecommerce-review-scraper
 description: "Collect reviews from any ecommerce page — text, rating, author, date, verified status. Use when the user wants review data for sentiment analysis or quality research."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Review Scraper with BrowserAct
+# Ecommerce Review Scraper
 
 Use this Skill for Review and rating collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

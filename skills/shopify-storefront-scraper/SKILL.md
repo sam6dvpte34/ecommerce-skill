@@ -1,18 +1,17 @@
 ---
 name: shopify-storefront-scraper
 description: "Collect storefronts from Shopify — store name, branding, featured products, ratings. Use when the user wants to research brand storefronts or competitive assortment."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Shopify Storefront Scraper with BrowserAct
+# Shopify Storefront Scraper
 
 Use this Skill for Shopify storefront collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

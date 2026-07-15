@@ -1,18 +1,17 @@
 ---
 name: shopify-price-availability-monitor
 description: "Collect price availability monitor data from Shopify. Use when the user wants to research or export price availability monitor content."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Shopify Price Availability Monitor with BrowserAct
+# Shopify Price Availability Monitor
 
 Use this Skill for Shopify price and availability monitoring.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

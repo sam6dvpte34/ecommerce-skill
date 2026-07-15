@@ -1,18 +1,17 @@
 ---
 name: facebook-marketplace-rental-listing-scraper
 description: "Collect rental listings from Facebook Marketplace — property type, price, location, features, landlord. Use when the user wants to collect rental listings for market research."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Facebook Marketplace Rental Listing Scraper with BrowserAct
+# Facebook Marketplace Rental Listing Scraper
 
 Use this Skill for Facebook Marketplace rental listing collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

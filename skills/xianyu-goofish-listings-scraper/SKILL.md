@@ -1,18 +1,17 @@
 ---
 name: xianyu-goofish-listings-scraper
 description: "Collect listings from Xianyu (Goofish) — title, price, condition, seller, URL. Use when the user wants to collect product or offer listings."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Xianyu / Goofish Listings Scraper with BrowserAct
+# Xianyu / Goofish Listings Scraper
 
 Use this Skill for Xianyu / Goofish listing collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

@@ -1,18 +1,17 @@
 ---
 name: shopify-app-store-scraper
 description: "Collect Shopify apps from Shopify — app name, developer, rating, reviews, pricing. Use when the user wants to research Shopify apps or track competitors."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Shopify App Store Scraper with BrowserAct
+# Shopify App Store Scraper
 
 Use this Skill for Shopify App Store listing collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

@@ -1,18 +1,17 @@
 ---
 name: ecommerce-search-results-scraper
 description: "Collect search results from any ecommerce site — product titles, prices, ratings, URLs. Use when the user wants to collect listings matching a keyword across stores."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Search Results Scraper with BrowserAct
+# Ecommerce Search Results Scraper
 
 Use this Skill for Generic ecommerce search result collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

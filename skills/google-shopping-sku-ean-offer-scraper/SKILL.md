@@ -1,18 +1,17 @@
 ---
 name: google-shopping-sku-ean-offer-scraper
 description: "Collect offers by SKU or EAN from Google Shopping — prices, merchants, availability, product identifiers. Use when the user wants to look up offers using a product SKU or EAN code."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Google Shopping SKU/EAN Offer Scraper with BrowserAct
+# Google Shopping SKU/EAN Offer Scraper
 
 Use this Skill for Google Shopping SKU or EAN offer collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

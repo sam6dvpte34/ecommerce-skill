@@ -1,18 +1,17 @@
 ---
 name: ebay-search-results-scraper
 description: "Collect search results from eBay — product titles, prices, ratings, URLs, sponsored flags. Use when the user wants to collect listings matching a keyword or category."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# eBay Search Results Scraper with BrowserAct
+# eBay Search Results Scraper
 
 Use this Skill for eBay search result collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

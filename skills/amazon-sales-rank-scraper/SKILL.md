@@ -1,18 +1,17 @@
 ---
 name: amazon-sales-rank-scraper
 description: "Collect Amazon sales rank data from Amazon — BSR, category, rank history signals. Use when the user wants to track Amazon sales rank across products or categories."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Amazon Sales Rank Scraper with BrowserAct
+# Amazon Sales Rank Scraper
 
 Use this Skill for Amazon sales rank collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

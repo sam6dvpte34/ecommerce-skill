@@ -1,18 +1,17 @@
 ---
 name: ecommerce-promotion-deal-scraper
 description: "Collect active promotions and deals from any ecommerce site — deal title, discount, price, valid dates. Use when the user wants to track what offers are running."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Promotion Deal Scraper with BrowserAct
+# Ecommerce Promotion Deal Scraper
 
 Use this Skill for Deal, promotion, and discount collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

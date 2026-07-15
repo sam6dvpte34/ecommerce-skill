@@ -1,18 +1,17 @@
 ---
 name: 1688-supplier-profile-scraper
 description: "Collect supplier profiles from 1688 — supplier name, certifications, products, MOQ, location. Use when the user wants to research suppliers or build a supplier shortlist."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# 1688 Supplier Profile Scraper with BrowserAct
+# 1688 Supplier Profile Scraper
 
 Use this Skill for 1688 supplier profile collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

@@ -1,18 +1,17 @@
 ---
 name: ecommerce-inventory-availability-monitor
 description: "Monitor stock availability across product pages — stock status, quantity signals, delivery estimate. Use when the user wants to track whether products are in stock."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Inventory Availability Monitor with BrowserAct
+# Ecommerce Inventory Availability Monitor
 
 Use this Skill for Stock and availability monitoring.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

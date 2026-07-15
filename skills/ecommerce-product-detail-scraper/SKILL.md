@@ -1,18 +1,17 @@
 ---
 name: ecommerce-product-detail-scraper
 description: "Collect product details from any ecommerce page — title, price, specs, images, availability, seller. Use when the user wants to research a product or build a product dataset without targeting a specific platform."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Product Detail Scraper with BrowserAct
+# Ecommerce Product Detail Scraper
 
 Use this Skill for Generic product detail page collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

@@ -1,18 +1,17 @@
 ---
 name: amazon-asin-detail-scraper
 description: "Collect Amazon product details by ASIN from Amazon — ASIN, title, price, rank, reviews, variants. Use when the user wants to look up product data directly by ASIN."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Amazon ASIN Detail Scraper with BrowserAct
+# Amazon ASIN Detail Scraper
 
 Use this Skill for Amazon ASIN detail collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

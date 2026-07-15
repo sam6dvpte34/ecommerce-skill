@@ -1,18 +1,17 @@
 ---
 name: ecommerce-marketplace-offer-scraper
 description: "Collect marketplace offers from any ecommerce listing — third-party sellers, prices, condition, fulfillment. Use when the user wants to compare multiple sellers on one product."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Ecommerce Marketplace Offer Scraper with BrowserAct
+# Ecommerce Marketplace Offer Scraper
 
 Use this Skill for Marketplace offer and buy-box style offer collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

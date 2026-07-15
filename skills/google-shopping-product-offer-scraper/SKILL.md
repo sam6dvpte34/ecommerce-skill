@@ -1,18 +1,17 @@
 ---
 name: google-shopping-product-offer-scraper
 description: "Collect product offers from Google Shopping — merchant name, price, shipping, availability. Use when the user wants to collect and compare offers for a product across merchants."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Google Shopping Product Offer Scraper with BrowserAct
+# Google Shopping Product Offer Scraper
 
 Use this Skill for Google Shopping product offer collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

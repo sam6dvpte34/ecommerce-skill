@@ -1,18 +1,17 @@
 ---
 name: yelp-business-review-scraper
 description: "Collect business review data from Yelp. Use when the user wants to research or export business review content."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Yelp Business Review Scraper with BrowserAct
+# Yelp Business Review Scraper
 
 Use this Skill for Yelp business review collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 

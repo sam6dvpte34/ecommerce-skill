@@ -1,18 +1,17 @@
 ---
 name: facebook-marketplace-category-scraper
 description: "Collect category data from Facebook Marketplace. Use when the user wants to research or export category content."
+license: MIT
+metadata:
+  author: rebeccareyes3794
+  version: "0.1.0"
 ---
 
-# Facebook Marketplace Category Scraper with BrowserAct
+# Facebook Marketplace Category Scraper
 
 Use this Skill for Facebook Marketplace category collection.
 
-This Skill provides a focused entry point for the platform and task keywords
-above, then delegates live website work to BrowserAct. It does not bundle a
-site-specific API client, selector library, or scraper script.
-
-Created and maintained by [BrowserAct](https://www.browseract.com/?co-from=ecommerce)
-for AI agents working with real websites.
+This Skill uses the [BrowserAct](https://www.browseract.com/?co-from=ecommerce) CLI to access real browser pages and execute tasks.
 
 ## Common Use Cases
 
