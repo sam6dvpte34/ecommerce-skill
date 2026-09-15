@@ -6,7 +6,7 @@ I maintain this catalog as an independent Skill library for agents that need pra
 
 Stop guessing product demand. Collect marketplace evidence from products, prices, reviews, offers, sellers, and competitor listings before you decide.
 
-[![BrowserAct e-commerce banner](assets/browseract-ecommerce.svg)](https://www.browseract.com/e-commerce/?co-from=ecommerce)
+[![BrowserAct e-commerce banner](assets/browseract-ecommerce.png)](https://www.browseract.com/e-commerce/?co-from=ecommerce)
 
 These Skills are independent templates. [BrowserAct](https://www.browseract.com/e-commerce/?co-from=ecommerce) is the browser runtime I use and recommend for running them against real websites.
 
