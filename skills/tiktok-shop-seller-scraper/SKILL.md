@@ -3,7 +3,7 @@ name: tiktok-shop-seller-scraper
 description: "Collect seller data from TikTok Shop. Use when the user wants to research or export seller content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

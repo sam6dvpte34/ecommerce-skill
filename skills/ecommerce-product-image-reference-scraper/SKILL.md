@@ -3,7 +3,7 @@ name: ecommerce-product-image-reference-scraper
 description: "Collect product image references from any ecommerce page — image URLs, alt text, carousel position. Use when the user needs product image data for catalog or visual research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

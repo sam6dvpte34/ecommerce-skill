@@ -3,7 +3,7 @@ name: 1688-price-moq-scraper
 description: "Collect price and MOQ data from 1688 — unit price, MOQ, supplier, payment terms. Use when the user wants to compare sourcing costs and minimum order requirements."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

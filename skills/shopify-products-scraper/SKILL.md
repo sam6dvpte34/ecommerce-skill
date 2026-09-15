@@ -3,7 +3,7 @@ name: shopify-products-scraper
 description: "Collect products data from Shopify. Use when the user wants to research or export products content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

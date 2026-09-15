@@ -3,7 +3,7 @@ name: ecommerce-inventory-availability-monitor
 description: "Monitor stock availability across product pages — stock status, quantity signals, delivery estimate. Use when the user wants to track whether products are in stock."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

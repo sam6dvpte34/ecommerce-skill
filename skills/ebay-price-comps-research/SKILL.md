@@ -3,7 +3,7 @@ name: ebay-price-comps-research
 description: "Collect price comparisons from eBay — sold prices, condition, dates, platform. Use when the user wants to research comparable sold prices for valuation."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

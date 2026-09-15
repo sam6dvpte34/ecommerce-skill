@@ -3,7 +3,7 @@ name: ecommerce-price-monitor
 description: "Monitor prices across product pages or listings — current price, availability, discount labels. Use when the user wants to track price changes on a product or across competitors."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

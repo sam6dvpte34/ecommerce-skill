@@ -3,7 +3,7 @@ name: ecommerce-coupon-banner-monitor
 description: "Monitor coupon banners on any ecommerce site — discount codes, banner text, valid dates. Use when the user wants to track active coupons and promotional banners."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

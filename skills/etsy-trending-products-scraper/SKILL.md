@@ -3,7 +3,7 @@ name: etsy-trending-products-scraper
 description: "Collect trending products from Etsy — product titles, trending signals, category. Use when the user wants to spot trending products and rising demand."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

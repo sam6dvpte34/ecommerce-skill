@@ -3,7 +3,7 @@ name: mercadolibre-deals-scraper
 description: "Collect deals from MercadoLibre — deal title, discount, original price, merchant. Use when the user wants to collect current deals and promotions."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

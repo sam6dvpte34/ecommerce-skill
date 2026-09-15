@@ -3,7 +3,7 @@ name: etsy-keyword-research
 description: "Collect keyword research from Etsy — search terms, competition, listing volume, trending tags. Use when the user wants to find high-performing keywords for listings or ads."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

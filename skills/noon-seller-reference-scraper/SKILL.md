@@ -3,7 +3,7 @@ name: noon-seller-reference-scraper
 description: "Collect seller references from Noon — seller name, ratings, product listing count. Use when the user wants to collect seller reference data for vetting or comparison."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

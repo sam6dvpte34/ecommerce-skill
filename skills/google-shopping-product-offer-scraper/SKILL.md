@@ -3,7 +3,7 @@ name: google-shopping-product-offer-scraper
 description: "Collect product offers from Google Shopping — merchant name, price, shipping, availability. Use when the user wants to collect and compare offers for a product across merchants."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

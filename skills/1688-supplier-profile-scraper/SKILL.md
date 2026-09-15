@@ -3,7 +3,7 @@ name: 1688-supplier-profile-scraper
 description: "Collect supplier profiles from 1688 — supplier name, certifications, products, MOQ, location. Use when the user wants to research suppliers or build a supplier shortlist."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: etsy-shop-scraper
 description: "Collect shops from Etsy — shop name, rating, reviews, product catalog. Use when the user wants to research shops or find niche sellers."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

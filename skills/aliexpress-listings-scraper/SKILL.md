@@ -3,7 +3,7 @@ name: aliexpress-listings-scraper
 description: "Collect listings from AliExpress — title, price, condition, seller, URL. Use when the user wants to collect product or offer listings."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ecommerce-review-scraper
 description: "Collect reviews from any ecommerce page — text, rating, author, date, verified status. Use when the user wants review data for sentiment analysis or quality research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

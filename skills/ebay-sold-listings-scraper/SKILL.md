@@ -3,7 +3,7 @@ name: ebay-sold-listings-scraper
 description: "Collect sold listings from eBay — title, final price, sold date, condition, seller. Use when the user wants to research market values from historical sold data."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

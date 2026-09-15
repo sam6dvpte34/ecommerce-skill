@@ -3,7 +3,7 @@ name: google-shopping-sku-ean-offer-scraper
 description: "Collect offers by SKU or EAN from Google Shopping — prices, merchants, availability, product identifiers. Use when the user wants to look up offers using a product SKU or EAN code."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

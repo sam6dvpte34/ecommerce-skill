@@ -3,7 +3,7 @@ name: facebook-marketplace-vehicle-listing-scraper
 description: "Collect vehicle listings from Facebook Marketplace — make, model, year, price, mileage, seller. Use when the user wants to collect vehicle listings for research or valuation."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

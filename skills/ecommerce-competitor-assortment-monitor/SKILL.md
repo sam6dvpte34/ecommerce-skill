@@ -3,7 +3,7 @@ name: ecommerce-competitor-assortment-monitor
 description: "Monitor competitor product assortments — catalog titles, prices, category coverage. Use when the user wants to track what competitors carry and how they price."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

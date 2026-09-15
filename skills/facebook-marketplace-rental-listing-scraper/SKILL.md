@@ -3,7 +3,7 @@ name: facebook-marketplace-rental-listing-scraper
 description: "Collect rental listings from Facebook Marketplace — property type, price, location, features, landlord. Use when the user wants to collect rental listings for market research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

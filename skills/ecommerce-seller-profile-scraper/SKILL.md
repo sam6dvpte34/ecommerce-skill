@@ -3,7 +3,7 @@ name: ecommerce-seller-profile-scraper
 description: "Collect seller profiles from any ecommerce platform — name, rating, review count, product catalog. Use when the user wants to research sellers without specifying a platform."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

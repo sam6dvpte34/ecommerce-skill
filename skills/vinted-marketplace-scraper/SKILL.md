@@ -3,7 +3,7 @@ name: vinted-marketplace-scraper
 description: "Collect marketplace listings from Vinted — item title, price, condition, seller, category. Use when the user wants to collect listings from a peer-to-peer marketplace."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

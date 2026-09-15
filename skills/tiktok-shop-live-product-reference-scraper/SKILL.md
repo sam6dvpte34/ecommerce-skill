@@ -3,7 +3,7 @@ name: tiktok-shop-live-product-reference-scraper
 description: "Collect TikTok Shop live product references from TikTok Shop — products featured in live streams, prices, hosts. Use when the user wants to research products promoted through TikTok live commerce."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

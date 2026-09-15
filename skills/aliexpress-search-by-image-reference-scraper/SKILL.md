@@ -3,7 +3,7 @@ name: aliexpress-search-by-image-reference-scraper
 description: "Collect search by image reference data from AliExpress. Use when the user wants to research or export search by image reference content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

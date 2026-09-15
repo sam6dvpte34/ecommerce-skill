@@ -3,7 +3,7 @@ name: google-shopping-price-comparison-scraper
 description: "Collect price comparisons from Google Shopping — prices, merchants, shipping, availability. Use when the user wants to compare prices for a product across multiple sellers."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

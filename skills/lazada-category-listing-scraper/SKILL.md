@@ -3,7 +3,7 @@ name: lazada-category-listing-scraper
 description: "Collect category listings from Lazada — product titles, prices, ratings, category filters. Use when the user wants to collect products from a category or browse page."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: 1688-wholesale-product-scraper
 description: "Collect wholesale listings from 1688 — product title, MOQ, price tiers, supplier info. Use when the user wants to collect wholesale pricing and MOQ data."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

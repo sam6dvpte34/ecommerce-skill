@@ -3,7 +3,7 @@ name: ecommerce-price-comparison-research
 description: "Compare prices for the same product across stores — prices, platform, product title, availability. Use when the user wants a cross-site price comparison."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

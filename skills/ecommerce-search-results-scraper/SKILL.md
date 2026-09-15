@@ -3,7 +3,7 @@ name: ecommerce-search-results-scraper
 description: "Collect search results from any ecommerce site — product titles, prices, ratings, URLs. Use when the user wants to collect listings matching a keyword across stores."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

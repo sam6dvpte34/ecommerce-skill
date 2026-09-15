@@ -3,7 +3,7 @@ name: ecommerce-product-feed-audit
 description: "Audit or export a product catalog feed — feed entries, titles, prices, availability, attributes. Use when the user wants to review or export a product feed dataset."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

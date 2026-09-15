@@ -3,7 +3,7 @@ name: shopify-app-store-scraper
 description: "Collect Shopify apps from Shopify — app name, developer, rating, reviews, pricing. Use when the user wants to research Shopify apps or track competitors."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ecommerce-product-detail-scraper
 description: "Collect product details from any ecommerce page — title, price, specs, images, availability, seller. Use when the user wants to research a product or build a product dataset without targeting a specific platform."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

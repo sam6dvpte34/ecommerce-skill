@@ -3,7 +3,7 @@ name: noon-search-results-scraper
 description: "Collect search results from Noon — product titles, prices, ratings, URLs, sponsored flags. Use when the user wants to collect listings matching a keyword or category."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

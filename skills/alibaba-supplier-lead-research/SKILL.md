@@ -3,7 +3,7 @@ name: alibaba-supplier-lead-research
 description: "Collect supplier leads from Alibaba — supplier name, products, MOQ, contact signals. Use when the user wants to find and qualify suppliers for sourcing."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

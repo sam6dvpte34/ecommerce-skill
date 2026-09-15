@@ -3,7 +3,7 @@ name: ecommerce-product-variant-scraper
 description: "Collect product variant data from any ecommerce page — options, colors, sizes, prices, availability. Use when the user needs variant-level data across a product."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

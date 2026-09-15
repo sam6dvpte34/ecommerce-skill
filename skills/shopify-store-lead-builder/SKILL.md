@@ -3,7 +3,7 @@ name: shopify-store-lead-builder
 description: "Collect Shopify store leads from Shopify — store URL, niche, products, contact signals. Use when the user wants to build a list of Shopify stores for outreach or research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: made-in-china-supplier-scraper
 description: "Collect supplier data from Made-in-China. Use when the user wants to research or export supplier content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

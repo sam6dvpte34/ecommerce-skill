@@ -3,7 +3,7 @@ name: allegro-product-detail-scraper
 description: "Collect product details from Allegro — title, price, specs, images, availability, seller. Use when the user wants to research products, compare listings, or build a product dataset."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

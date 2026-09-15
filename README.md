@@ -1,12 +1,23 @@
 # Ecommerce Skill
 
-185 Skills for ecommerce research, product data collection, price monitoring, and competitive intelligence.
+185 reusable Skills for ecommerce research, product monitoring, and marketplace intelligence.
 
-Ecommerce platforms don't make data collection easy: product pages are JavaScript-rendered, prices hide behind login walls, and seller data spreads across dozens of marketplaces. These Skills give your agent a ready-made workflow for each platform and task — point it at a product URL, ASIN, or keyword and get structured results back.
+I maintain this catalog as an independent Skill library for agents that need practical browser-based ecommerce workflows.
 
-These Skills use [BrowserAct](https://www.browseract.com/?co-from=ecommerce) as the browser runtime — so agents can log in, navigate, scroll, and capture network responses instead of getting blocked or rate-limited by plain HTTP requests.
+Stop guessing product demand. Collect marketplace evidence from products, prices, reviews, offers, sellers, and competitor listings before you decide.
 
 [![BrowserAct e-commerce banner](assets/browseract-ecommerce.svg)](https://www.browseract.com/e-commerce/?co-from=ecommerce)
+
+These Skills are independent templates. [BrowserAct](https://www.browseract.com/e-commerce/?co-from=ecommerce) is the browser runtime I use and recommend for running them against real websites.
+
+## What this helps with
+
+| Goal | Useful Skills |
+| --- | --- |
+| Research products and keywords | Amazon, Google Shopping, TikTok Shop, Etsy, Shopify |
+| Monitor prices and offers | price monitors, coupons, buy box, seller offers |
+| Analyze reviews and objections | reviews, Q&A, review images, rating signals |
+| Compare marketplace competitors | assortment, listings, variants, shipping promises |
 
 ## Popular workflows
 
@@ -106,3 +117,4 @@ Claude Code, OpenAI Codex, Cursor, Windsurf, OpenClaw, Hermes, and other local a
 
 - Intended for public data or data you are authorized to access. Website availability, visible fields, login requirements, and result limits can change over time.
 - Keep account details, cookies, browser IDs, proxies, keyword lists, and exported records outside shared Skill folders and public repositories.
+

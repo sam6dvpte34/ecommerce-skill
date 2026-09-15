@@ -3,7 +3,7 @@ name: tiktok-shop-category-ranking-scraper
 description: "Collect category rankings from TikTok Shop — top products, category, ranking position, sales signals. Use when the user wants to track top-ranked products within a category."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

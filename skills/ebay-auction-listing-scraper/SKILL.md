@@ -3,7 +3,7 @@ name: ebay-auction-listing-scraper
 description: "Collect auction listings from eBay — title, current bid, bids, end time, seller. Use when the user wants to track active auctions and bidding activity."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ecommerce-shipping-fee-scraper
 description: "Collect shipping fee data from any ecommerce site — shipping options, fees, delivery time. Use when the user wants to compare delivery terms or monitor shipping costs."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

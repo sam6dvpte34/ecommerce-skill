@@ -3,7 +3,7 @@ name: amazon-deal-page-scraper
 description: "Collect Amazon deal pages from Amazon — deal title, discount, price, time remaining, eligibility. Use when the user wants to collect active lightning deals and promotions."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

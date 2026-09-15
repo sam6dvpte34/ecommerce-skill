@@ -3,7 +3,7 @@ name: ecommerce-promotion-deal-scraper
 description: "Collect active promotions and deals from any ecommerce site — deal title, discount, price, valid dates. Use when the user wants to track what offers are running."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

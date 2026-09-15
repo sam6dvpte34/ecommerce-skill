@@ -3,7 +3,7 @@ name: amazon-sales-rank-scraper
 description: "Collect Amazon sales rank data from Amazon — BSR, category, rank history signals. Use when the user wants to track Amazon sales rank across products or categories."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

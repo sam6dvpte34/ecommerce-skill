@@ -3,7 +3,7 @@ name: etsy-listing-scraper
 description: "Collect listings from Etsy — title, price, condition, seller, source URL. Use when the user wants to collect listing details."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

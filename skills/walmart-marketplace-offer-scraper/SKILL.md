@@ -3,7 +3,7 @@ name: walmart-marketplace-offer-scraper
 description: "Collect marketplace offers from Walmart — third-party sellers, prices, condition, fulfillment. Use when the user wants to compare offers from multiple sellers on a single listing."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

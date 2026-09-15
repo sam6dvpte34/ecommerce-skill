@@ -3,7 +3,7 @@ name: tiktok-shop-creator-affiliate-scraper
 description: "Collect TikTok Shop creator affiliates from TikTok Shop — creator name, followers, niche, affiliated products. Use when the user wants to find TikTok Shop creators for affiliate or partnership research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

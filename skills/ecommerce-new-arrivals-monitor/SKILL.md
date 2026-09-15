@@ -3,7 +3,7 @@ name: ecommerce-new-arrivals-monitor
 description: "Monitor new arrivals on any ecommerce site — new products, titles, prices, listed dates. Use when the user wants to track new product launches or restocks."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

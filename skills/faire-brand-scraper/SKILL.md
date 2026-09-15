@@ -3,7 +3,7 @@ name: faire-brand-scraper
 description: "Collect brand data from Faire. Use when the user wants to research or export brand content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

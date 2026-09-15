@@ -3,7 +3,7 @@ name: ecommerce-question-answer-scraper
 description: "Collect Q&A threads from any ecommerce product page — questions, answers, author, helpful votes. Use when the user wants customer Q&A for product or content research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

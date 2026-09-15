@@ -3,7 +3,7 @@ name: yahoo-auctions-japan-scraper
 description: "Collect scraper data from Yahoo Auctions Japan. Use when the user wants to research or export scraper content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

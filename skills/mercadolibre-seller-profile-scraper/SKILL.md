@@ -3,7 +3,7 @@ name: mercadolibre-seller-profile-scraper
 description: "Collect seller profiles from MercadoLibre — seller name, rating, review count, product catalog. Use when the user wants to research sellers or build supplier lead lists."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

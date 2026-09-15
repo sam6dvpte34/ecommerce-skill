@@ -3,7 +3,7 @@ name: yelp-business-review-scraper
 description: "Collect business review data from Yelp. Use when the user wants to research or export business review content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

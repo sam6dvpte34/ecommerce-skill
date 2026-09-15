@@ -3,7 +3,7 @@ name: amazon-asin-detail-scraper
 description: "Collect Amazon product details by ASIN from Amazon — ASIN, title, price, rank, reviews, variants. Use when the user wants to look up product data directly by ASIN."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

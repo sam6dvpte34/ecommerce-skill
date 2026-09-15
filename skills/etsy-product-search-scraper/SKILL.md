@@ -3,7 +3,7 @@ name: etsy-product-search-scraper
 description: "Collect product search data from Etsy. Use when the user wants to research or export product search content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

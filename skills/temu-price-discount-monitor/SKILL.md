@@ -3,7 +3,7 @@ name: temu-price-discount-monitor
 description: "Collect prices and discounts from Temu — current price, discount percentage, original price. Use when the user wants to monitor price drops and active discounts."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

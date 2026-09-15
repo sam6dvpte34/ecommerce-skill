@@ -3,7 +3,7 @@ name: made-in-china-product-scraper
 description: "Collect products from Made-in-China — title, price, specs, images, availability. Use when the user wants to research products or collect catalog data."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ebay-product-listing-scraper
 description: "Collect product listings from eBay — title, price, condition, seller, bids, end time. Use when the user wants to collect product listing details."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

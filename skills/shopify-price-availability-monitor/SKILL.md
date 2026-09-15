@@ -3,7 +3,7 @@ name: shopify-price-availability-monitor
 description: "Collect price availability monitor data from Shopify. Use when the user wants to research or export price availability monitor content."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

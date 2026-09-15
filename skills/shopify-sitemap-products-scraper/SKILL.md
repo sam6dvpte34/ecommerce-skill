@@ -3,7 +3,7 @@
     description: "Collect Shopify products from sitemap pages — product URLs, titles, update dates. Use when the user wants store catalog discovery."
     license: MIT
     metadata:
-      author: rebeccareyes3794
+      author: sam6dvpte34
       version: "0.1.0"
     ---
 
@@ -66,4 +66,3 @@ separate approval for dependency installation.
 - Website availability, visible fields, login requirements, regional content, and result limits can change.
 - Keep cookies, account information, browser IDs, proxy settings, and personal lists under `workspaces/`, never in the Skill directory.
 - Do not claim that data was collected unless BrowserAct or another authorized tool actually returned it.
-

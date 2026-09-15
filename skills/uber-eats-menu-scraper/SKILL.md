@@ -3,7 +3,7 @@ name: uber-eats-menu-scraper
 description: "Collect menus from Uber Eats — items, prices, descriptions, restaurant info. Use when the user wants to collect menu data for research or pricing analysis."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

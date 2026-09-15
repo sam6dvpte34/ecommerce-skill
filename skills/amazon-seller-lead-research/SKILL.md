@@ -3,7 +3,7 @@ name: amazon-seller-lead-research
 description: "Collect seller leads from Amazon — seller name, rating, product count, contact signals. Use when the user wants to find sellers for outreach or supplier research."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

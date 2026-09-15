@@ -3,7 +3,7 @@ name: amazon-bestseller-ranking-scraper
 description: "Collect bestseller rankings from Amazon — ranked products, positions, category, ratings. Use when the user wants to track bestseller lists and top-selling items."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ecommerce-category-listing-scraper
 description: "Collect category listings from any ecommerce site — product titles, prices, ratings, filters. Use when the user wants to map what a store carries in a category."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 

@@ -3,7 +3,7 @@ name: ecommerce-bestseller-ranking-scraper
 description: "Collect bestseller rankings from any ecommerce site — ranked products, positions, category. Use when the user wants to track what's selling best in a category."
 license: MIT
 metadata:
-  author: rebeccareyes3794
+  author: sam6dvpte34
   version: "0.1.0"
 ---
 
